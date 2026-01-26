@@ -69,7 +69,7 @@ https://feeds.advcake.ru/feed/download/d8aa1856c802380fd9b79435e3db43f2?webmaste
 https://feeds.advcake.ru/feed/download/d98dc2844675f638826f2cc3f354834d?webmaster=60d80eed
 https://feeds.advcake.ru/feed/download/da057ebe06d194a32d25d2caf137b4dc?webmaster=60d80eed
 https://feeds.advcake.ru/feed/download/dee6241de2bee72f160b2f8d32d25151?webmaster=60d80eed
-https://feeds.advcake.ru/feed/download/e888fbb2830b2e45122f8a7e979fcddb?webmaster=60d80eed
+https://feeds.advcake.ru/feed/download/9fe92538eeaaa09561913c5bed61ce4c?webmaster=60d80eed
 https://feeds.advcake.ru/feed/download/e95a4344e46009f2e9fcaf9888535613?webmaster=60d80eed
 https://feeds.advcake.ru/feed/download/ebde7b61c51148382e4dc29d0a252a87?webmaster=60d80eed
 https://feeds.advcake.ru/feed/download/ed33b62985b5ecad3fbccb83051a466e?webmaster=60d80eed
@@ -80,5 +80,6 @@ https://feeds.advcake.ru/feed/download/f5a5bf78635545636c828d2437f9f454?webmaste
 https://feeds.advcake.ru/feed/download/f658d11a6ec79af7db5e7ef3adb1ab6c?webmaster=60d80eed
 https://feeds.advcake.ru/feed/download/fdcc87412a1e0e0b9d3410b67b7d8e9b?webmaster=60d80eed
 https://feeds.advcake.ru/feed/download/5b7c903e75301612986e9152a37f56d9?webmaster=60d80eed
+
 
 
